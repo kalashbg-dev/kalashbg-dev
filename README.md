@@ -1,12 +1,10 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" alt="GIF" />
 </div>
-  
-  <div style="display: flex; justify-content: space-around;">
-    <h1>
+
+<h1 align="center"; >
     Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF"> I'm Kalashnikov!
-  </h1>
-  </div>
+</h1>
 ====================================================================================================================================
 
 Farmer & FullStack Web Development Student.
