@@ -23,3 +23,11 @@ src="https://img.shields.io/github/followers/kalashbg-dev?logo=github&style=for-
 ### Badges
 
 <b>My GitHub Stats</b>
+
+### Support Me
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kalashbgdec"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
+
