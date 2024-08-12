@@ -1,7 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kalashnikov!
-<figure id="header" display: inline-block;>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
-</figure>
+<div id="header" align="left" style="display: inline-block;">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="105" alt="GIF" animation="infinite">
+</div>
+  <h1 style="display: inline-block; align: right;;">
+    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF"> I'm Kalashnikov!
+  </h1>
 ====================================================================================================================================
 
 Farmer & FullStack Web Development Student.
