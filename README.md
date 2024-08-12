@@ -1,4 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kalashnikov!
+<figure id="header" display: inline-block;>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+</figure>
 ====================================================================================================================================
 
 Farmer & FullStack Web Development Student.
