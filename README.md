@@ -7,7 +7,7 @@
 </h1>
 ====================================================================================================================================
 
-Farmer & FullStack Web Development Student.
+Farmer, Crypto Enthusiastic & FullStack Web Development Student.
 -------------------------------------------
 
 Ten years as a farmer, twelve years as a seller, and some project management expertise are combined with a degree in civil engineering. I accepted the challenge and am currently pursuing my new dream. Learn to Develop Websites.
