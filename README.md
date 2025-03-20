@@ -13,7 +13,7 @@ Farmer, Crypto Enthusiastic & FullStack Developer
 Ten years as a farmer, twelve years as a seller, and some project management expertise are combined with a degree in civil engineering. I accepted the challenge and am currently pursuing my new dream. Learn how to Develop.
 
 * 🌍  I'm based in Barahona, Dominican Republic.
-* ✉️  You can contact me at [kalash.dev@gmail.com](mailto:kalash.dev@gmail.com)
+* ✉️  You can contact me at [kalash.dev@gmail.com](mailto:kalashbg.dev@gmail.com)
 * 🧠  I'm a FullStack Developer
 
 <a href="https://www.github.com/kalashbg-dev" target="_blank" rel="noreferrer"><img
